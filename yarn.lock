@@ -738,10 +738,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@hypecloud/shards@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@hypecloud/shards/-/shards-0.0.2.tgz#4eeed327c8ab846ca6bc5bd60ffd18bb5ab52cc6"
-  integrity sha512-D0PW7I2PDGcLXz28pfexvQnAz06/e8fiTuTsjk0qUUNJnLjpQi0mU1Ue4IRvsOSFvcXG+WISI1qJBsYNwvMs0w==
+"@hypecloud/shards@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@hypecloud/shards/-/shards-0.0.4.tgz#bead4fc50c5f35cf876e6bb0ceb69adca42de535"
+  integrity sha512-Hf8NchEdBEanRk/j21m0cyAz2ZsWAPsfd6fWrnCJDGTG3hMGkw8Lv/pAP9caWmq7GtaMNKXpCXTiR4gxS620Lg==
   dependencies:
     "@babel/core" "^7.7.7"
     "@babel/preset-env" "^7.7.7"
