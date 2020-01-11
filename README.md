@@ -23,4 +23,3 @@ Development server is available at http://localhost:1337/graphql.
 ## Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hypecloud/create-shards-api/tree/master)
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/hypecloud/create-shards-api/tree/master)
