@@ -1,0 +1,13 @@
+{
+  "name": "Shards",
+  "description": "A one click deploy of Shards API generator.",
+  "repository": "https://github.com/hypecloud/shards",
+  "keywords": [
+    "GraphQL",
+    "Apollo",
+    "Koa"
+  ],
+  "addons": [
+    "mongolab"
+  ]
+}
