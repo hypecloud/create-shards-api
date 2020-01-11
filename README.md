@@ -1,5 +1,7 @@
 # Create Shards API
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hypecloud/create-shards-api/tree/master)
+
 The fastest way to kickstart your API.
 
 ## Prerequisites
